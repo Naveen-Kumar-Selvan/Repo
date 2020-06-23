@@ -1,0 +1,2 @@
+
+A duplicate file to delete a file.
