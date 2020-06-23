@@ -1,1 +1,0 @@
-Now It's time to learn Push and Pull operations in Git.
